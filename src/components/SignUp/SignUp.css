@@ -1,0 +1,33 @@
+
+
+ .signpage_right{
+    height: 580px;
+    width: 350px;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    text-align: center;
+    background-color: white;
+ }
+
+ .toptext{
+    color: #8e8e8e;
+ }
+
+ .signpage_main{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 65px;
+
+ }
+
+ .extra_text{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #8e8e8e;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
